@@ -1,7 +1,8 @@
 use_frameworks!
 target 'PodsDependencies_Tests' do
   pod 'PodsDependencies', :path => '../'
-  
+
   pod 'Quick', '~> 1.2.0'
-    pod 'Nimble', '~> 7.0.2'
+  pod 'Nimble', '~> 7.0.2'
+  pod 'Mockingjay', '~> 2.0.1'
 end
