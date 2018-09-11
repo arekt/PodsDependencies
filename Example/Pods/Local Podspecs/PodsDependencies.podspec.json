@@ -1,0 +1,27 @@
+{
+  "name": "PodsDependencies",
+  "version": "0.1.0",
+  "summary": "A short description of PodsDependencies.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/arekt/PodsDependencies",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Arek Turlewicz": "aturlewicz@mediweb.jp"
+  },
+  "source": {
+    "git": "https://github.com/Arek Turlewicz/PodsDependencies.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "PodsDependencies/Classes/**/*",
+  "dependencies": {
+    "Mockingjay": [
+      "~> 2.0.1"
+    ]
+  }
+}

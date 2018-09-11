@@ -1,0 +1,6 @@
+framework module PodsDependencies {
+  umbrella header "PodsDependencies-umbrella.h"
+
+  export *
+  module * { export * }
+}
